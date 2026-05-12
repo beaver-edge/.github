@@ -1,4 +1,6 @@
 ![banner](./img/beaver-edge-banner.png)
+> Source code is [here](https://github.com/beaver-edge/beaver-edge).
+> Dataset for results reproduction from the paper published at Middleware26 is available [here](https://github.com/beaver-edge/middleware26).
 ## 🦫 What is BEAVER?
 
 BEAVER is a framework for autonomous lifecycle management of embedded AI systems.
